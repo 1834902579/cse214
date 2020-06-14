@@ -9,7 +9,7 @@
 
 * Array I/O
 
-## Lab assignment 2
+## [Lab assignment 2](https://github.com/1834902579/cse214/tree/master/lab2)
 * Array Declaretion
 
 * Array Update
@@ -18,7 +18,7 @@
 
 * Array Delete
 
-## Lab assignment 3
+## [Lab assignment 3](https://github.com/1834902579/cse214/tree/master/lab3)
 * Maximum
 
 * Minimum
@@ -31,7 +31,7 @@
 
 * Fibonacci Number
 
-## Lab assignment 4
+## [Lab assignment 4](https://github.com/1834902579/cse214/tree/master/lab4)
 * Array Copy
 
 * Array Reverse
@@ -44,7 +44,7 @@ Array Spilt
 
 Cyclically Permute
 
-## Lab assignment 5
+## [Lab assignment 5](https://github.com/1834902579/cse214/tree/master/lab5)
 Array Operation Using Pointer Array Declaration
 
 Array Initialization
