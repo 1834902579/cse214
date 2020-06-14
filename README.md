@@ -1,4 +1,6 @@
 # cse214
+# *Data Strucrture Lab*
+
 ## [Lab assignment 1](https://github.com/1834902579/cse214/tree/master/lab1)
 
 * Array Declaretion
