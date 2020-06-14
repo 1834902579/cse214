@@ -1,5 +1,5 @@
 # cse214
-# Lab assignment 1
+## Lab assignment 1
 
 * Array Declaretion
 
@@ -31,23 +31,10 @@
 
 * Fibonacci Number
 
-## Lab assignment 3
-Maximum
+## Lab assignment 4
+* Array Copy
 
-Minimum
-
-Summation
-
-Average
-
-Standard Deviation
-
-Fibonacci Number
-
-Lab assignment 4
-Array Copy
-
-Array Reverse
+* Array Reverse
 
 Array Compare
 
@@ -57,7 +44,7 @@ Array Spilt
 
 Cyclically Permute
 
-Lab assignment 5
+## Lab assignment 5
 Array Operation Using Pointer Array Declaration
 
 Array Initialization
