@@ -36,39 +36,39 @@
 
 * Array Reverse
 
-Array Compare
+* Array Compare
 
-Array Merge
+* Array Merge
 
-Array Spilt
+* Array Spilt
 
-Cyclically Permute
+* Cyclically Permute
 
 ## [Lab assignment 5](https://github.com/1834902579/cse214/tree/master/lab5)
-Array Operation Using Pointer Array Declaration
+* Array Operation Using Pointer Array Declaration
 
-Array Initialization
+* Array Initialization
 
-Array Accessing
+* Array Accessing
 
-Array I/O
+* Array I/O
 
-Merge
+* Merge
 
-Compare9
+* Compare9
 
-Reverse
+* Reverse
 
-Maximum
+* Maximum
 
-Minimum
+* Minimum
 
-Merge by Sorting
+* Merge by Sorting
 
-Summation
+* Summation
 
-Split
+* Split
 
-Updating Index
+* Updating Index
 
-Cycally Permutee
+* Cycally Permutee
