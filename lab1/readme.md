@@ -1,7 +1,7 @@
 # Assignment-1(Array)
 
 ## ARRAY(Declare, Initialize,Access,Input,Output)
-1. Array SCAN values !(From User).
+1. [Array SCAN values !(From User).](https://github.com/1834902579/cse214/blob/master/lab1/1.c)
 2. Array scan values Until END OF FILE .
 3. Array scan values Until user input ZERO .
 4. Print array each Element in NEWLINE .
