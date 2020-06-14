@@ -1,5 +1,5 @@
 # cse214
-## [Lab assignment 1]9(https://github.com/1834902579/cse214/tree/master/lab1)
+## [Lab assignment 1](https://github.com/1834902579/cse214/tree/master/lab1)
 
 * Array Declaretion
 
