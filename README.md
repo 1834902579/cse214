@@ -1,5 +1,5 @@
 # cse214
-## Lab assignment 1
+## [Lab assignment 1]9(https://github.com/1834902579/cse214/tree/master/lab1)
 
 * Array Declaretion
 
@@ -27,7 +27,7 @@
 
 * Average
 
-* Standard Deviation
+* Standard Deviation9
 
 * Fibonacci Number
 
@@ -55,7 +55,7 @@ Array I/O
 
 Merge
 
-Compare
+Compare9
 
 Reverse
 
