@@ -2,7 +2,8 @@
 
 ## ARRAY(Declare, Initialize,Access,Input,Output)
 1. [Array SCAN values !(From User).](https://github.com/1834902579/cse214/blob/master/lab1/1.c)
-`int n,i=0;
+```
+int n,i=0;
 scanf("%d ",&n);
 while(scanf("%d ",&a[i])==1){
 i++;
@@ -10,7 +11,8 @@ if (i>n){
 printf("Array overflow\n);
 break;
 }
-}`
+} 
+```
 
 2. [Array scan values Until END OF FILE](https://github.com/1834902579/cse214/blob/master/lab1/2.c)
 3. [Array scan values Until user input ZERO ](https://github.com/1834902579/cse214/blob/master/lab1/3.c)
