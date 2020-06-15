@@ -16,12 +16,14 @@ int arr[10];
 int i,n=16,size=10;
 for(i=0;i<size;i++)
 }
+```
 02.Insert a value X[ take input X from user ]in the array at the end of currently stored elements.
 ```c
 int i,size,X;
 scanf("%d ",&X);
 arr[size]=X;
 size++;
+```
 03.Insert a value X (take input X from user)in the array at Kth (take input K from user ) index and shift all other value to right.And print the whole array.
 ```c
 int n=3;
