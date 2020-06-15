@@ -121,7 +121,7 @@ flag++;
 size--;
 if(flag!=1)
 ```
-11.Delete a value x(take input x from user)from the array shift all other value to left.If x is not present in the given array print element not found.Delete all the occurrence of the value .And print the whole array.
+[11.Delete a value x(take input x from user)from the array shift all other value to left.If x is not present in the given array print element not found.Delete all the occurrence of the value .And print the whole array.](https://github.com/1834902579/cse214/blob/master/lab2/11.c)
 ```c
  if(x==arr[j]){
  for(i=j;i<=size;i++){
