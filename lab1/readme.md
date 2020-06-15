@@ -1,6 +1,6 @@
 # Assignment-1(Array)
 
-## ARRAY(Declare, Initialize,Access,Input,Output)
+## *ARRAY(Declare, Initialize,Access,Input,Output)*
 1. [Array SCAN values !(From User).](https://github.com/1834902579/cse214/blob/master/lab1/1.c)
 ```c
 int n,i=0;
