@@ -8,7 +8,7 @@
 
 * ## Delete
 
-01.Insert any value at tenth index of the array,and print the whole array..
+[01.Insert any value at tenth index of the array,and print the whole array..](https://github.com/1834902579/cse214/blob/master/lab2/1.c)
 ```c
 #include<stdio.h>
 int main(){
@@ -17,14 +17,14 @@ int i,n=16,size=10;
 for(i=0;i<size;i++)
 }
 ```
-02.Insert a value X[ take input X from user ]in the array at the end of currently stored elements.
+[02.Insert a value X( take input X from user )in the array at the end of currently stored elements.](https://github.com/1834902579/cse214/blob/master/lab2/2.c)
 ```c
 int i,size,X;
 scanf("%d ",&X);
 arr[size]=X;
 size++;
 ```
-03.Insert a value X (take input X from user)in the array at Kth (take input K from user ) index and shift all other value to right.And print the whole array.
+[03.Insert a value X (take input X from user)in the array at Kth (take input K from user ) index and shift all other value to right.And print the whole array.](https://github.com/1834902579/cse214/blob/master/lab2/3.c)
 ```c
 int n=3;
 scanf("%d ",&X);
@@ -35,7 +35,7 @@ arr[i]=arr[i-1];
 size++;
 arr[n-1]=X;
 ```
-04.Insert a value X(take input X from user)in the array at kth(take input K from user)index and shift all other value to right.And print the whole array.
+[04.Insert a value X(take input X from user)in the array at kth(take input K from user)index and shift all other value to right.And print the whole array.](https://github.com/1834902579/cse214/blob/master/lab2/4.c)
 ```c
 int x,i,k;
 scanf("%d ",&k);
@@ -47,7 +47,7 @@ arr[i]=arr[i-1];
 size++;
 arr[k-1]=x;
 ```
-05.Update fifth index with another value.And print the whole array.
+[05.Update fifth index with another value.And print the whole array.](https://github.com/1834902579/cse214/blob/master/lab2/5.c)
 ```c
 int i,n=5,x=2013;
 for(i=0;i==n;i++)
@@ -56,7 +56,7 @@ arr[i]=arr[i-1];
 }
 arr[n-1]=x;
 ```
-06.Update kth (take input k from user)index with the value x(take input x from user).Any print the whole array.
+[06.Update kth (take input k from user)index with the value x(take input x from user).Any print the whole array.](https://github.com/1834902579/cse214/blob/master/lab2/6.c)
 ```c
 int x,i,k;
 scanf("%d ",&k);
@@ -67,7 +67,7 @@ arr[i]=arr[i-1];
 }
 arr[k-1]=x;
 ```
-07.Search a value x(take input x from user)in the array and print "found"if x found in the array otherwise print "notfound".
+[07.Search a value x(take input x from user)in the array and print "found"if x found in the array otherwise print "notfound".](https://github.com/1834902579/cse214/blob/master/lab2/7.c)
 ```c
 int i,x,flag=0;
 scanf("%d ",&x);
@@ -84,7 +84,7 @@ flag++;
   printf("Not Found");
   }
   ```
-08.Search a value x(take input x from user)in the array and print the index if x found in the array otherwise print "-1".
+[08.Search a value x(take input x from user)in the array and print the index if x found in the array otherwise print "-1".](https://github.com/1834902579/cse214/blob/master/lab2/8.c)
 ```c
 int i,x,flag=0;
 scanf("%d ",&x);
@@ -99,7 +99,7 @@ printf("-1"):
 }
 }
 ```
-09.Delete a value from kth index(take input k from user)from the array shift all other value to left .And print the whole array.
+[09.Delete a value from kth index(take input k from user)from the array shift all other value to left .And print the whole array.](https://github.com/1834902579/cse214/blob/master/lab2/9.c)
 ```c
 int i,k;
 scanf("%d ",&k);
@@ -109,7 +109,7 @@ arr[i]=arr[i+1];
 }
 size--;
 ```
-10.Delete a value x(take input x from user)from the array shift all other value to left.If x is not present in the given array print element not found.Only delete the first occurrence of the value .And print the whole array.
+[10.Delete a value x(take input x from user)from the array shift all other value to left.If x is not present in the given array print element not found.Only delete the first occurrence of the value .And print the whole array.](https://github.com/1834902579/cse214/blob/master/lab2/10.c)
 ```c
 if(x==arr[j]){
 for(i=x-1;i<size;i++){
