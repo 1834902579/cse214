@@ -74,3 +74,30 @@
 * Updating Index
 
 * Cycally Permutee
+
+# [Lab Assignment :- 6](https://github.com/1834902579/cse214/tree/master/lab6)
+
+## *Linked list Basic Operation[Single Way (Singly)Linked list]*
+
+* Create
+
+* Declare
+
+* Initialize
+
+* Access
+
+* Traverse
+
+* Output
+
+
+
+
+
+
+
+
+
+
+
