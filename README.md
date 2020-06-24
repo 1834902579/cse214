@@ -90,7 +90,24 @@
 * Traverse
 
 * Output
+# [Lab Assaignment :- 7](https://github.com/1834902579/cse214/tree/master/lab7)
+## *Linked List Operation[Single Way(single)Linked List]*
 
+* Create
+
+* Empty 
+
+* Size
+
+* Front
+
+* Back
+
+* Search
+
+* Reverse
+
+* Merge
 
 
 
